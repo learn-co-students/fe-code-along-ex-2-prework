@@ -7,7 +7,7 @@ In this code along we will be adding an embedded iframe map as well as a contact
 1. Fork this repository.
 2. Clone your fork.
 3. cd into the folder for this lab.
-4. Code along with the included video below.
+4. Code along with the included video below..
 
 ## Code Along Exercise 2 ~ 39min
 
